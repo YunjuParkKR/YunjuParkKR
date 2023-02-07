@@ -1,4 +1,15 @@
-### Hi there 👋
+### Welcome! 👋
+
+- 🧐 Now I'm looking for a company
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+
+🌿 My Github Stats 🌿
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=tokyonight)](https://github.com/YunjuParkKR/github-readme-stats)
+
+💬 My Top Langs 💬
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunjuParkKR)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **YunjuParkKR/YunjuParkKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
