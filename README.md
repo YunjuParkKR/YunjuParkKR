@@ -8,9 +8,9 @@
 
 <strong>🌿 My Github Stats 🌿</strong>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=synthwave)](https://github.com/YunjuParkKR/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=radical)](https://github.com/YunjuParkKR/github-readme-stats)
 
-💬 My Top Langs 💬
+<strong>💬 My Top Langs 💬</strong>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunjuParkKR&hide=html, css&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
