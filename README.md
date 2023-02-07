@@ -8,7 +8,7 @@
 
 🌿 My Github Stats 🌿
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=highcontrast)](https://github.com/YunjuParkKR/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=dracula)](https://github.com/YunjuParkKR/github-readme-stats)
 
 💬 My Top Langs 💬
 
