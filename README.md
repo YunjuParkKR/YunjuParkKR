@@ -1,8 +1,10 @@
 ### Welcome! 👋
 
+
 - 🧐 Now I'm looking for a company
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
+
 
 🌿 My Github Stats 🌿
 
