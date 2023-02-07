@@ -2,18 +2,35 @@
 
 
 - 🧐 Now I'm looking for a company
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: yunjupark0817@gmail.com
 
+<strong>🛠 Technology Stack 🛠</strong>
+- Database: Oracle, MySQL
+- Back-end: Java, Spring Framework, Spring Security, Servlet/JSP, EL/JSTL, JDBC, MyBatis
+- Front-end: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Ajax + JSON
+- Data Alanysis: Python, Selenium, Numpy/Pandas, BeautifulSoup, matplotlib, seaborn, Open API(NAVER, data.go.kr, etc...) 
+- Version Control: Git, GitHub
 
 <strong>🌿 My Github Stats 🌿</strong>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=radical)](https://github.com/YunjuParkKR/github-readme-stats)
 
-<strong>💬 My Top Langs 💬</strong>
+<strong>✨ My Top Langs ✨</strong>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunjuParkKR&hide=html,css&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<strong>📝 Blog 📝</strong>
+...
+
+<strong>📋 Portfolio 📋</strong>
+...
+
+<strong>💬 Languages 💬</strong>
+- Korean: Native
+- English: Advanced
+- Vietnamese: Intermediate
+- Japanese: Novice
+- French: Novice
 
 <!--
 **YunjuParkKR/YunjuParkKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
