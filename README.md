@@ -6,9 +6,9 @@
 - 📫 How to reach me: ...
 
 
-🌿 My Github Stats 🌿
+<strong>🌿 My Github Stats 🌿</strong>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=dracula)](https://github.com/YunjuParkKR/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunjuParkKR&show_icons=true&theme=synthwave)](https://github.com/YunjuParkKR/github-readme-stats)
 
 💬 My Top Langs 💬
 
