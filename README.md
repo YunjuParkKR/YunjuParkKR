@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 
-- 🧐 Now I'm looking for a company
+- 🧐 Now I'm looking for a company to work for
 - 📫 How to reach me: yunjupark0817@gmail.com
 
 <strong>🛠 Technology Stack 🛠</strong>
