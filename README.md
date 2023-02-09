@@ -5,13 +5,16 @@
 - 📫 How to reach me: yunjupark0817@gmail.com
 
 <strong>🛠 Technology Stack 🛠</strong>
-- Database: Oracle, MySQL
-- Back-end: Java, Spring Framework, Spring Security, Servlet/JSP, EL/JSTL, JDBC, MyBatis
+- Database: <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+- Back-end: <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+ Spring Security, Servlet/JSP, EL/JSTL, JDBC, MyBatis
 - Front-end: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Ajax + JSON
 - Data Alanysis: Python, Selenium, Numpy/Pandas, BeautifulSoup, matplotlib, seaborn, Open API(NAVER, data.go.kr, etc...) 
-- Version Control: Git, GitHub
+- Version Control: Git, <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 - 
-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+- 
 
 
 <strong>🌿 My Github Stats 🌿</strong>
