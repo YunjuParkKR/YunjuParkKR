@@ -23,10 +23,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunjuParkKR&hide=html,css&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong>📝 Blog 📝</strong>
-...
+https://yunjuparkkr.github.io/
 
+<!--
 <strong>📋 Portfolio 📋</strong>
 ...
+-->
 
 <strong>💬 Languages 💬</strong>
 - Korean: Native
